@@ -11,3 +11,4 @@
 6. Instalar los requerimientos del env `pip install -r requirements.txt`
 7. Create a folder `mkdir src`
 8. Dentro de src `django-admin.py startproject project_name`
+9. Dentro de `src/project_name`, correr el comando `python manage.py startapp prject_name_api`
